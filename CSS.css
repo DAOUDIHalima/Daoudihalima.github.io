@@ -1,0 +1,25 @@
+body{
+    background-image:url("daniel-sessler-mhGXpkMsdAU-unsplash.jpg");
+    background-size: cover;
+
+}
+#parag{
+    font-size:1.3em;
+    color:aqua;
+    font-family: nom-police ,serif;
+}
+#id{
+    color:brown;
+}
+a{
+    color:blueviolet;
+    text-decoration: none;
+}
+a:hover{
+    font-size:1.3em;
+    color:bisque;
+}
+a:visited{
+    font-size:1.3em;
+    color:brown;
+}
